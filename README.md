@@ -50,3 +50,6 @@ Activation: ReLU & Softmax
 Evaluation:
 
 Accuracy: ~80%
+
+Google Drive Link: --> https://drive.google.com/drive/folders/1KlB2zseCm9uGnYR1wKBpGnrLa41qZJfK?usp=drive_link
+
